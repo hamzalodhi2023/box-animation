@@ -2,4 +2,4 @@
 
 ## AUTHOR: HAMZA KHAN LODHI
 
-(![box animation](box%20animation.png))
+![box animation](box%20animation.png)
